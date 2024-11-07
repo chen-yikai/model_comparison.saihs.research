@@ -1,0 +1,16 @@
+{
+  "name": "model_comparison.saihs.research",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "hono": "^4.6.9",
+    "openai": "^4.71.1"
+  }
+}
