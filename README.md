@@ -1,1 +1,3 @@
-# Ollama
+```
+deno task start
+```
